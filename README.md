@@ -1,7 +1,9 @@
 # p5.js multi sketch template
 
-Please use this tempate to create a repository that contains your coursework for Creative Coding this semester. When you are creating a new item in your repository (either notes from a lecture, or a new assignment) please follow these two steps:
+This is a test. To see if it's connected. Again.
 
+Please use this tempate to create a repository that contains your coursework for Creative Coding this semester. When you are creating a new item in your repository (either notes from a lecture, or a new assignment) please follow these two steps:
+s
 1. make a copy of the "template" folder and rename it to match your given activity (week1 or assignment1, for instance). 
 2. add a line to the list in the "index.html" file in the root folder of your repository, which will create a link to your new activity:
 
